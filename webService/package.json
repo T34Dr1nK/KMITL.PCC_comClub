@@ -1,0 +1,22 @@
+{
+  "name": "kmitl.pcc_comclub",
+  "version": "1.0.0",
+  "description": "Website for KMITL PCC computer Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T34Dr1nK/KMITL.PCC_comClub.git"
+  },
+  "author": "T34_Dr1nK",
+  "license": "SEE LICENSE IN ../LICENSE",
+  "bugs": {
+    "url": "https://github.com/T34Dr1nK/KMITL.PCC_comClub/issues"
+  },
+  "homepage": "https://github.com/T34Dr1nK/KMITL.PCC_comClub#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
